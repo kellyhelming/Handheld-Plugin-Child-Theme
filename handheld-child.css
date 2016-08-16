@@ -54,7 +54,7 @@ sub { bottom: -1px; }
 .clearfix:after { clear: both; }
 .clearfix { zoom: 1; }
 
-body { background: #8ec7d0 url(images/body-bg.png); font-family: Helvetica, Arial, sans-serif; color: #3e3e3e; line-height: 20px; font-size: 13px; }
+body { background: #8ec7d0 url(../../HH-plugin-child-them-GIT/Handheld-Plugin-Child-Theme/images/body-bg.png); font-family: Helvetica, Arial, sans-serif; color: #3e3e3e; line-height: 20px; font-size: 13px; }
 a { color: #146fc9; outline: none; }
 ul, ol { margin-left: 2em; }
 ol { list-style-type: decimal; }
@@ -71,19 +71,19 @@ small { font-size: 80%; }
 strong { font-weight: bold; }
 p { padding-bottom: 10px; }
 	#container { margin: 0 auto; }
-		header#main_header { text-align: center; background: url(images/logo_area_top_shadow.png) repeat-x; }
-			div#logo-area { padding: 25px 0 24px; position: relative; background: url(images/logo_area_bottom_shadow.png) repeat-x bottom left; }
-			#nav_bar { background: #313536 url(images/nav_bar.png) repeat-x; border-bottom: 1px solid #fff; }
-				#nav_bottom_shadow { background: url(images/nav_shadows.png) no-repeat 20px 0; }
-					#nav_bar_top_bg { background: url(images/nav_bar_top_light.png) center 1px no-repeat; min-height: 56px; position: relative; padding-left: 16px; }
+		header#main_header { text-align: center; background: url(../../HH-plugin-child-them-GIT/Handheld-Plugin-Child-Theme/images/logo_area_top_shadow.png) repeat-x; }
+			div#logo-area { padding: 25px 0 24px; position: relative; background: url(../../HH-plugin-child-them-GIT/Handheld-Plugin-Child-Theme/images/logo_area_bottom_shadow.png) repeat-x bottom left; }
+			#nav_bar { background: #313536 url(../../HH-plugin-child-them-GIT/Handheld-Plugin-Child-Theme/images/nav_bar.png) repeat-x; border-bottom: 1px solid #fff; }
+				#nav_bottom_shadow { background: url(../../HH-plugin-child-them-GIT/Handheld-Plugin-Child-Theme/images/nav_shadows.png) no-repeat 20px 0; }
+					#nav_bar_top_bg { background: url(../../HH-plugin-child-them-GIT/Handheld-Plugin-Child-Theme/images/nav_bar_top_light.png) center 1px no-repeat; min-height: 56px; position: relative; padding-left: 16px; }
 
-			#search-form { background: url(images/handheld-sprite.png) no-repeat -59px -41px; position: relative; top: 10px; width: 173px; height: 31px; padding-top: 3px; }
+			#search-form { background: url(../../HH-plugin-child-them-GIT/Handheld-Plugin-Child-Theme/images/handheld-sprite.png) no-repeat -59px -41px; position: relative; top: 10px; width: 173px; height: 31px; padding-top: 3px; }
 				#search-form #searchinput { border: none; background: none; color: #475252; font-family: Georgia, serif; font-size: 14px; font-style: italic; text-shadow: 0 1px 0 #fff; padding-left: 1px; width: 122px; -webkit-appearance: none; }
 				#search-form #searchsubmit { margin: 3px 0 0 3px; }
 				#searchinput:focus { outline: none; }
 
-		#main { background: #f4f4f4 url(images/content-bg.png); }
-			#main-top-shadow { min-height: 200px; background: url(images/content-top-shadow.png) repeat-x; padding: 21px 16px 28px; }
+		#main { background: #f4f4f4 url(../../HH-plugin-child-them-GIT/Handheld-Plugin-Child-Theme/images/content-bg.png); }
+			#main-top-shadow { min-height: 200px; background: url(../../HH-plugin-child-them-GIT/Handheld-Plugin-Child-Theme/images/content-top-shadow.png) repeat-x; padding: 21px 16px 28px; }
 				.text_block { padding: 16px 22px 17px 25px; background: #fff; border: 1px solid #dedede; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; -webkit-box-shadow: 1px 1px 0 #FFFFFF; -moz-box-shadow: 1px 1px 0 #FFFFFF; box-shadow: 1px 1px 0 #FFFFFF; }
 				#welcome { margin-bottom: 30px; }
 					#welcome.text_block { padding: 25px 32px 14px; }
@@ -93,18 +93,18 @@ p { padding-bottom: 10px; }
 				.post { margin-bottom: 11px; position: relative; }
 					.post-thumb { float: left; position: relative; margin-right: 12px; }
 						.post-thumb span.comment_count { position: absolute; top: -13px; left: -12px; display: block; }
-							.post-thumb span.comment_count a { display: block; background: url(images/handheld-sprite.png) no-repeat -1px -1px; color: #fff; font-weight: bold; font-size: 15px; text-shadow: 1px 1px 1px rgba(0,0,0,0.4); text-decoration: none; text-align: center; line-height: 30px; }
+							.post-thumb span.comment_count a { display: block; background: url(../../HH-plugin-child-them-GIT/Handheld-Plugin-Child-Theme/images/handheld-sprite.png) no-repeat -1px -1px; color: #fff; font-weight: bold; font-size: 15px; text-shadow: 1px 1px 1px rgba(0,0,0,0.4); text-decoration: none; text-align: center; line-height: 30px; }
 							.post-thumb span.comment_count, .post-thumb span.comment_count a { width: 37px; height: 35px; padding-right: 2px; }
 					.post-content { float: left; width: 65%; }
 						.post h1 { color: #4d5759; border-bottom: 1px solid #f4f4f4; margin-bottom: 4px; padding-bottom: 6px; }
-						.meta-info { background: url(images/postinfo_icon.png) no-repeat 3px 4px; padding: 0 0 0 18px; color: #bdbdbd; font-family: Georgia, serif; font-style: italic; }
+						.meta-info { background: url(../../HH-plugin-child-them-GIT/Handheld-Plugin-Child-Theme/images/postinfo_icon.png) no-repeat 3px 4px; padding: 0 0 0 18px; color: #bdbdbd; font-family: Georgia, serif; font-style: italic; }
 
-					.post .readmore { display: block; text-indent: -9999px; background: url(images/handheld-sprite.png) no-repeat -3px -49px; width: 27px; height: 27px; position: absolute; top: 39%; right: -14px; }
+					.post .readmore { display: block; text-indent: -9999px; background: url(../../HH-plugin-child-them-GIT/Handheld-Plugin-Child-Theme/images/handheld-sprite.png) no-repeat -3px -49px; width: 27px; height: 27px; position: absolute; top: 39%; right: -14px; }
 
 				.more_posts { padding-top: 10px; }
-					a.load_more, p.form-submit { background: url(images/load_more_bg.png) repeat-x; display: block; border: 1px solid #000; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; text-align: center; font-size: 14px; color: #fff; text-shadow: 1px 1px 1px rgba(0,0,0,0.5); text-decoration: none; height: 33px; line-height: 32px; -moz-bottom-shadow: ; -webkit-bottom-shadow: ; box-shadow: 0 2px 1px rgba(0,0,0,0.2); }
-						a.load_more span, p.form-submit input#submit { display: block; background: url(images/more_posts_plus.png) no-repeat 95% 7px; }
-						a.load_more_ajax span { background: url(images/ajax-loader.gif) no-repeat 95% 7px; }
+					a.load_more, p.form-submit { background: url(../../HH-plugin-child-them-GIT/Handheld-Plugin-Child-Theme/images/load_more_bg.png) repeat-x; display: block; border: 1px solid #000; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; text-align: center; font-size: 14px; color: #fff; text-shadow: 1px 1px 1px rgba(0,0,0,0.5); text-decoration: none; height: 33px; line-height: 32px; -moz-bottom-shadow: ; -webkit-bottom-shadow: ; box-shadow: 0 2px 1px rgba(0,0,0,0.2); }
+						a.load_more span, p.form-submit input#submit { display: block; background: url(../../HH-plugin-child-them-GIT/Handheld-Plugin-Child-Theme/images/more_posts_plus.png) no-repeat 95% 7px; }
+						a.load_more_ajax span { background: url(../../HH-plugin-child-them-GIT/Handheld-Plugin-Child-Theme/images/ajax-loader.gif) no-repeat 95% 7px; }
 						a.load_more:hover { color: #eee; }
 
 				#recent_posts { margin-bottom: 35px; }
@@ -118,9 +118,9 @@ p { padding-bottom: 10px; }
 
 				.post-thumb span.overlay { width: 72px; height: 72px; }
 
-				#main_footer { padding: 20px 16px 18px; background: url(images/footer-top.png) repeat-x; }
+				#main_footer { padding: 20px 16px 18px; background: url(../../HH-plugin-child-them-GIT/Handheld-Plugin-Child-Theme/images/footer-top.png) repeat-x; }
 					#mobile_options { text-align: right; }
-						a#exit_mobile { color: #5a8086; text-shadow: 1px 1px 0 rgba(255,255,255,0.4); font-size: 15px; font-family: Georgia, serif; font-style: italic; text-decoration: none; background: url(images/exit_mobile.png) no-repeat 0 3px; padding-left: 20px; }
+						a#exit_mobile { color: #5a8086; text-shadow: 1px 1px 0 rgba(255,255,255,0.4); font-size: 15px; font-family: Georgia, serif; font-style: italic; text-decoration: none; background: url(../../HH-plugin-child-them-GIT/Handheld-Plugin-Child-Theme/images/exit_mobile.png) no-repeat 0 3px; padding-left: 20px; }
 						a#exit_mobile:hover { color: #3c575b; }
 
 		#breadcrumbs, #breadcrumbs a { font-size: 12px; text-transform: uppercase; color: #b7b7b7; font-family: Georgia, serif; text-shadow: 1px 1px 0 #fff; text-decoration: none; }
@@ -145,7 +145,7 @@ p { padding-bottom: 10px; }
 /* Main Menu */
 
 a#main_menu_link { float: right; width: 86px; height: 56px; text-align: left; text-decoration: none; color: white;font-size: 18px; font-weight: normal; line-height: 56px; text-shadow: 0px -1px 1px rgba(0, 0, 0, 0.4); padding-left: 19px; }
-a#main_menu_link span { background: url(images/handheld-sprite.png) no-repeat -63px -3px; width: 29px; height: 20px; display: block; position: absolute; top: 18px; right: 9px; -moz-transition: all 0.5s ease-in-out; -webkit-transition: all 0.5s ease-in-out;-o-transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out; }
+a#main_menu_link span { background: url(../../HH-plugin-child-them-GIT/Handheld-Plugin-Child-Theme/images/handheld-sprite.png) no-repeat -63px -3px; width: 29px; height: 20px; display: block; position: absolute; top: 18px; right: 9px; -moz-transition: all 0.5s ease-in-out; -webkit-transition: all 0.5s ease-in-out;-o-transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out; }
 	.menu_open { -moz-transform: rotate(-180deg); -webkit-transform: rotate(-180deg); -o-transform: rotate(-180deg); transform: rotate(-180deg); }
 
 .main_nav { position: absolute; left: 0; top: 56px; width: 100%; list-style: none; padding: 0; margin: 0; text-align: left; background: #313536; z-index: 9999; display: none; }
@@ -173,9 +173,9 @@ ol.commentlist { margin-left: 0; }
 .comment { margin-bottom: 9px; }
 	.comment-content { clear: both; }
 	.comment-meta { background: #fafafa; border: 1px solid #ededed; -webkit-border-bottom-right-radius: 10px; -webkit-border-bottom-left-radius: 10px; -moz-border-radius-bottomright: 10px; -moz-border-radius-bottomleft: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px;  margin: 0 -17px -13px -20px; }
-		.comment-date { background: url(images/postinfo_icon.png) no-repeat 3px 4px; padding: 3px 0 0 19px; color: #bdbdbd; position: relative; left: 9px; top: 2px; }
+		.comment-date { background: url(../../HH-plugin-child-them-GIT/Handheld-Plugin-Child-Theme/images/postinfo_icon.png) no-repeat 3px 4px; padding: 3px 0 0 19px; color: #bdbdbd; position: relative; left: 9px; top: 2px; }
 		.reply-container { float: right; }
-			.reply-container a { display: block; color: #9c9c9c; text-decoration: none; background: #ededed url(images/reply-bg.png) repeat-x; border-left: 1px solid #e6e6e6; padding: 3px 11px 4px; -webkit-border-bottom-right-radius: 10px; -moz-border-radius-bottomright: 10px;border-bottom-right-radius: 10px; }
+			.reply-container a { display: block; color: #9c9c9c; text-decoration: none; background: #ededed url(../../HH-plugin-child-them-GIT/Handheld-Plugin-Child-Theme/images/reply-bg.png) repeat-x; border-left: 1px solid #e6e6e6; padding: 3px 11px 4px; -webkit-border-bottom-right-radius: 10px; -moz-border-radius-bottomright: 10px;border-bottom-right-radius: 10px; }
 			.comment-date, .reply-container a { font-size: 11px; font-family: Georgia, serif; font-style: italic; }
 
 #trackbacks { margin-bottom: 10px; }
